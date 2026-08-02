@@ -1,3 +1,5 @@
+# Name: James Berkey #
+# Date: 8/2/2026 #
 #!usr/bin/env python3
 #Module10codeDemo_numpy.py
 
